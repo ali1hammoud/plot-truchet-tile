@@ -8,7 +8,7 @@ This project implements a Python script to generate visual representations of Tr
 
 ## Acknowledgments
 - Inspiration from the classic Truchet tiling in mathematics and art.
-- ![Vitaliy Kaurov, WOLFRAM Research](https://community.wolfram.com/groups/-/m/t/3166774)
+- [Vitaliy Kaurov, WOLFRAM Research](https://community.wolfram.com/groups/-/m/t/3166774)
 
 ---
 
